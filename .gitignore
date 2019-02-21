@@ -1,0 +1,4 @@
+.idea
+venv
+cached_modules/*
+!cached_modules/readme*
